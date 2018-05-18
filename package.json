@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-bestpay",
+  "version": "1.0.0",
+  "description": "翼支付的android支付插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zjy",
+  "license": "ISC"
+}
