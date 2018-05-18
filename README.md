@@ -3,7 +3,7 @@ BestPay android plugin
 
 翼支付android版插件
 
-#How to use 
+# How to use 
 
 `cordova plugin install cordova-plugin-bestpay`
 
